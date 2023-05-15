@@ -5,4 +5,5 @@ RENCANA KONTEN
 - Javascript
   *ES6
   *Framework Javascript
+- Logika Algoritma
 - Vlog
