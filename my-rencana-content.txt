@@ -6,6 +6,7 @@ RENCANA KONTEN
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ React
 - Logika Algoritma
   * Problem Solving
 - Vlog
