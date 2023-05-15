@@ -1,0 +1,8 @@
+RENCANA KONTEN
+
+- HTML
+- CSS
+- Javascript
+  *ES6
+  *Framework Javascript
+- Vlog
