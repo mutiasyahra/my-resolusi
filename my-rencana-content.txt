@@ -3,7 +3,10 @@ RENCANA KONTEN
 - HTML
 - CSS
 - Javascript
-  *ES6
-  *Framework Javascript
+  * ES6
+  * Framework Javascript
+   ^ Vue
 - Logika Algoritma
+  * Problem Solving
 - Vlog
+- Python
